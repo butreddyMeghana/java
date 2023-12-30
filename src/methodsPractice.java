@@ -16,7 +16,7 @@ double c = add( 5,6);
         return c;
     }
         public static String sony(){
-            System.out.println("test2");
+            System.out.println("test02");
 
         return "cooking";
 
